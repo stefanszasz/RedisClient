@@ -1,4 +1,4 @@
 RedisClient
 ===========
 
-Perhaps the simplest Redis Client in C#
+Probably the simplest Redis Client in C# world
